@@ -6,7 +6,6 @@
   ▐░▌      ▐░▌   ▐░▌▐░▌         ▐░▌    ▀▀▀▀▀█░▌
   ▐░█▄▄▄▄▄ ▐░█▄▄▄█░▌▐░█▄▄▄▄▄   ▄▄█░█▄▄       ▐░▌
    ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀        ▀ 
-
 ```
 Hello! I’m Luci4/Icefields a software developer committed to advancing open source projects that prioritize freedom and privacy. My work aims to harness technology with full control—ensuring transparency, security, and independence from major corporations.
 
