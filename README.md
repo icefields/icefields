@@ -12,6 +12,8 @@ Hello! I’m Luci4/Icefields a software developer committed to advancing open so
 At present, my main focus is developing Power Ampache 2, a comprehensive Android music streaming app designed in the Material You style. It integrates with Ampache, Nextcloud Music, and other compatible backends (Ampache API 4 and later).
 This project reflects my dedication to reducing reliance on large corporations and empowering individuals through technology. 
 
+I also enjoy spending time ricing window managers (Hyprland and Awesome), writing Lua, Bash, and Fish scripts, and collaborating on various secondary projects.
+
 This profile will also host the codebase for my seminars/coding clinics.
 
 [Follow my Patreon](https://www.patreon.com/Icefields)
