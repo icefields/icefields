@@ -1,3 +1,5 @@
+![luci4-ascii](https://github.com/user-attachments/assets/b1b97840-3a3d-4b1a-aae1-5d86d7bc9024)
+
 Hello! I’m a software engineer committed to advancing open source projects that prioritize freedom and privacy. My work focuses on enabling people to harness technology with sovereignty—meaning transparently, securely, and independently from major corporations.
 
 At present, my main focus is developing Power Ampache 2, a comprehensive Android music streaming app designed in the Material You style. It integrates with Ampache, Nextcloud Music, and other compatible backends (Ampache API 4 and later).
