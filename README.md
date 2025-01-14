@@ -16,6 +16,7 @@ I also enjoy spending time ricing window managers (Hyprland and Awesome), writin
 
 This profile will also host the codebase for my seminars/coding clinics.
 
+[Buy Me a Coffee](https://buymeacoffee.com/powerampache)
 [Follow my Patreon](https://www.patreon.com/Icefields)
 <!---
 icefields/icefields is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
