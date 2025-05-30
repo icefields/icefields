@@ -16,7 +16,7 @@ I also enjoy spending time ricing window managers (Hyprland and Awesome), writin
 
 This profile will also host the codebase for my seminars/coding clinics.
 
-<h2>Donate to support my open source projects</h2>
+<h4>Donate to support my open source projects</h2>
 <table>
   <tr>
     <th>
@@ -63,6 +63,7 @@ This profile will also host the codebase for my seminars/coding clinics.
 </table>
 <hr style="height: 1px; width: 900px;" />
 
+<!---
 <a target="_blank" href="https://buymeacoffee.com/powerampache">
   <img src="https://github.com/user-attachments/assets/6868a8a5-7fba-4f6c-871d-0a73f1955408" alt="Buy Me a Coffee" width="200" />
 </a> 
@@ -71,7 +72,6 @@ This profile will also host the codebase for my seminars/coding clinics.
       <img width="130" alt="Become a patreon" 
          src="https://github.com/user-attachments/assets/c263bc11-3898-44ae-b926-2acd2193de22"></a>
 
-<!---
 icefields/icefields is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
