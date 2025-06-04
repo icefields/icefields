@@ -7,7 +7,7 @@
   ▐░█▄▄▄▄▄ ▐░█▄▄▄█░▌▐░█▄▄▄▄▄  ▄▄█░█▄▄       ▐░▌
    ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀        ▀ 
 ```
-Luci4/Icefields. 
+Luci4/Icefields. <br>
 Software developer committed to advancing open source projects that prioritize freedom and privacy. My work aims to harness technology with full control—ensuring transparency, security, and independence from major corporations.
 
 At present, my main focus is developing Power Ampache 2, a comprehensive Android music streaming app designed in the Material You style. It integrates with Ampache, Nextcloud Music, and other compatible backends.
