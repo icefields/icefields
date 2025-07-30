@@ -1,11 +1,12 @@
 ```
-   ▄        ▄     ▄  ▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄  ▄     ▄ 
-  ▐░▌      ▐░▌   ▐░▌▐░█▀▀▀▀▀  ▀▀█░█▀▀ ▐░▌   ▐░▌
-  ▐░▌      ▐░▌   ▐░▌▐░▌         ▐░▌   ▐░█   █░▌
-  ▐░▌      ▐░▌   ▐░▌▐░▌         ▐░▌   ▐░░░░░░░▌
-  ▐░▌      ▐░▌   ▐░▌▐░▌         ▐░▌    ▀▀▀▀▀█░▌
-  ▐░█▄▄▄▄▄ ▐░█▄▄▄█░▌▐░█▄▄▄▄▄  ▄▄█░█▄▄       ▐░▌
-   ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀        ▀ 
+ .____                 .__   _____ 
+ |    |    __ __  ____ |__| /  |  |
+ |    |   |  |  \/ ___\|  |/   |  |
+ |    |___|  |  |  \___|  /    ^   /
+ |_______ \____/ \___  >__\____   |
+         \/          \/        |__|
+
+010011001110101011000110110100100110100
 ```
 Luci4/Icefields. <br>
 Software developer committed to advancing open source projects that prioritize freedom and privacy. My work aims to harness technology with full control—ensuring transparency, security, and independence from major corporations.
