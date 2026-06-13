@@ -8,7 +8,10 @@
 
 010011001110101011000110110100100110100
 ```
-Luci4/Icefields. <br>
+> ⚠️ quick notice: **This account is 100% AI-slop free.** All code is human. Every function, class, and module is hand-crafted. No gods, no masters, no LLM. *No AI contribution will be approved in my open source projects.*
+
+## Luci4 / Icefields
+
 Software developer committed to advancing **open source** projects that prioritize **freedom** and **privacy**. My work aims to harness technology with full control—ensuring transparency, security, and independence from major corporations.
 
 At present, my main focus is developing **Power Ampache 2**, a comprehensive Android music streaming app designed in the Material You style. It integrates with Ampache, Nextcloud Music, and other compatible backends.
