@@ -8,7 +8,7 @@
 
 010011001110101011000110110100100110100
 ```
-> ⚠️ quick notice: **This account is 100% AI-slop free.** All code is human. Every function, class, and module is hand-crafted. No gods, no masters, no LLM. *No AI contribution will be approved in my open source projects.*
+> ⚠️ quick notice: **No AI-generated code is used in any of my repositories.** All code is human. Every function, class, and module is hand-crafted. No gods, no masters, no LLM. *No AI contribution will be approved in my open source projects.*
 
 ## Luci4 / Icefields
 
